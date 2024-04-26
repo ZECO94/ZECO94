@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hassan
 - 👀 I’m interested in Sports and programming
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on find a junior level job in java programming 
+- 🌱 I’m currently learning .NET 
+- 💞
 - 📫 How to reach me hassan.bayomi94@yahoo.com / +201018581070
 
 <!---
