@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Hassan
 - 👀 I’m interested in Sports and programming
 - 🌱 I’m currently learning .NET 
-- 💞
 - 📫 How to reach me hassan.bayomi94@yahoo.com / +201018581070
 
 <!---
